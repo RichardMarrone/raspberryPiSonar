@@ -6,6 +6,10 @@ Using an HCSR04 ultrasonic sensor mounted on a servo in a custom 3D printed moun
 
 ![sample output from SONAR](images/Figure_1.png)
 
+### Short gif of operation 
+
+![sample gif](images/SONAR_GIF.gif)
+
 ### Note on 3D Printed Mount
 
 The servo mount is included in the "stl files" folder. The settings used to print it are listed below:
